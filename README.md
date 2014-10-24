@@ -15,3 +15,6 @@ $this->widget('ext.flipclock.FlipClockWidget', array(
     ),
 ));
 ~~~
+
+###Demo
+http://flipclockjs.com/
