@@ -4,8 +4,7 @@ This is widget it wrapper of FlipClock https://github.com/objectivehtml/FlipCloc
 
 ###Uses
 Paste the following code in your view file:
-~~~
-[php]
+```php
 $this->widget('ext.flipclock.FlipClockWidget', array(
     'selector' => '#clock', // ID for the future DIV
     'time' => 60, // Seconds
@@ -14,7 +13,7 @@ $this->widget('ext.flipclock.FlipClockWidget', array(
         // options of FlipClock
     ),
 ));
-~~~
+```
 
 ###Demo
 http://flipclockjs.com/
